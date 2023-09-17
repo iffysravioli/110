@@ -8,7 +8,7 @@ export default function (props) {
   const changeAuthMode = () => {
     setAuthMode(authMode === "signin" ? "signup" : "signin")
   }
-
+ 
   if (authMode === "signin") {
     return (
       <div className="Auth-form-container">
