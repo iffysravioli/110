@@ -41,9 +41,11 @@ export default function (props) {
               />
             </div>
             <div className="d-grid gap-2 mt-3">
+            <a href="110/wellnesswave/src/Home.js">
               <button type="submit" className="btn btn-primary">
                 Submit
               </button>
+            </a>
             </div>
             <p className="text-center mt-2">
               Forgot <a href="#">password?</a>
@@ -92,9 +94,11 @@ export default function (props) {
                 />
             </div>
             <div className="d-grid gap-2 mt-3">
-                <button type="submit" className="btn btn-primary">
+            <a href="110/wellnesswave/src/Home.js">
+              <button type="submit" className="btn btn-primary">               
                 Submit
-                </button>
+              </button>
+            </a> 
             </div>
             <p className="text-center mt-2">
                 Forgot <a href="#">password?</a>
