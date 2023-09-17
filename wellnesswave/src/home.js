@@ -9,8 +9,8 @@ function Home() {
     
     return (
         <div className="app">
-          <h1 className="header text-center">React Calendar</h1>
-          <div className="calendar-container" >
+          <h1 className="header text-center">Did you finish your daily goals?</h1>
+          <div className="calendar-container" align-item="center">
             <Calendar onChange={setDate} value={date}/>
           </div>
           <div className="text-center">
