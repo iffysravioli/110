@@ -41,11 +41,9 @@ export default function (props) {
               />
             </div>
             <div className="d-grid gap-2 mt-3">
-            <a href="110/wellnesswave/src/Home.js">
-              <button type="submit" className="btn btn-primary">
+              <button type="submit" className="btn btn-primary" href = "110/wellnesswave/src/Home.js">
                 Submit
               </button>
-            </a>
             </div>
             <p className="text-center mt-2">
               Forgot <a href="#">password?</a>
