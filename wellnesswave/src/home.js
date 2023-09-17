@@ -19,8 +19,6 @@ function Home() {
               Selected date: {date.toDateString()}
             </div>
           </div>
-         )
-       
        
        </div>
 )}
